@@ -33,5 +33,9 @@ sayHelloToCat("Mittens")
 let catFriend = "Socks"
 sayHelloToCat(catFriend)
 
+sayHelloToGarfield()
+sayHelloToBuster()
+sayHelloToCat("CAT")
+
 // Uncomment this line to see the error that is printed in the console.
 //sayHelloToCat()
